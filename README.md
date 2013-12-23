@@ -1,0 +1,2 @@
+textadept-config
+================
