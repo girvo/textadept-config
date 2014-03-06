@@ -1,15 +1,13 @@
-buffer: 158 158 0 /Users/girvin/Code/Web/authe/composer.json
-buffer: 146 146 0 /Users/girvin/.textadept/init.lua
-view1: 2
+buffer: 0 0 0 /home/josh/Code/Web/authe/bootstrap.php
+buffer: 1589 1589 38 /home/josh/Code/Web/authe/public/index.php
+buffer: 296 296 0 /home/josh/Code/Web/authe/src/Authe.php
+view1: 3
 current_view: 1
-size: false 945 1017
-recent: /Users/girvin/.textadept/init.lua
-recent: /Users/girvin/Code/Web/authe/composer.json
-recent: /Users/girvin/Code/Games/SFMLTest/Makefile
-recent: /Users/girvin/Code/Games/localSDL/main.cpp
-recent: /Users/girvin/Downloads/SFML-2.1-osx-clang-universal/readme.txt
-recent: /Users/girvin/Downloads/df_osx/README.osx
-recent: /Users/girvin/araq.txt
-recent: /Users/girvin/Code/Desktop/HN.safariextension/zoom.css
-recent: /Users/girvin/Code/Desktop/defaultzoom.css
-recent: /Volumes/NO NAME/id_rsa.pub
+size: true 1366 719
+recent: /home/josh/Code/Web/authe/tests/Authe/Authe.login.phpt
+recent: /home/josh/Code/Web/authe/tests/Authe/Token.main.phpt
+recent: /home/josh/Code/Web/authe/tests/Authe/Authe.main.phpt
+recent: /home/josh/Code/Web/authe/tests/bootstrap.php
+recent: /home/josh/Code/Web/authe/src/Authe.php
+recent: /home/josh/Code/Web/authe/public/index.php
+recent: /home/josh/Code/Web/authe/bootstrap.php
